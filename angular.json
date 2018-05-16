@@ -27,6 +27,7 @@
             ],
             "scripts": [
               "src/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "src/resume.min.js"
             ]
           },
