@@ -1,0 +1,26 @@
+User-agent: * 
+User-agent: Googlebot-Mobile 
+User-agent: Googlebot-Image 
+User-agent: Mediapartners-Google 
+User-agent: Adsbot-Google 
+User-agent: BingBot 
+User-agent: Yahoo! Slurp 
+User-agent: Alexa 
+User-agent: Pagerank 
+User-agent: Ping 
+User-agent: ia_archiver 
+
+User-agent: Googlebot 
+Allow: /
+User-agent: Slurp 
+Allow: /
+User-agent: MSNBot 
+Allow: /
+User-agent: Googlebot-Image 
+Allow: /
+User-agent: yahoo-mmcrawler 
+Allow: /
+User-agent: psbot 
+Allow: /
+User-agent: * 
+Allow: /
